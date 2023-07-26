@@ -1,0 +1,28 @@
+.text{
+color: black;
+margin-left: 120px;
+}
+.pics{
+height: 100px;
+width: 100px;
+ border-radius:50px ;
+
+}
+
+.style{
+    color: black;
+   display: flex;
+}
+
+.menuContainer{
+flex-direction: row;
+display: flex;
+}
+
+.menuitem{
+    margin-left: 30 px;
+}
+
+.pay{
+    margin-top: 100px;
+}

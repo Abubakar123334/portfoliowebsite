@@ -2,18 +2,17 @@ import "./App.css"
 import React from "react"
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Home from "./Home";
+import Project from "./Views/Projects/Project";
 
 const App =()=>{
  
   return(
-    <BrowserRouter>
     <Routes>
-      <Route path="/" element={<Home />}>
-        <Route index element={<Home />} />
+        <Route path="/" element={<Home />} />
+        <Route index path="*" element={<Home />} />
+        <Route path="/project"  element={<Project />} />
 
-      </Route>
     </Routes>
-  </BrowserRouter>
 
   )
 }

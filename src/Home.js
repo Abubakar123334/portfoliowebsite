@@ -22,7 +22,7 @@ const Home =()=>{
 <div>
 <h1 className="pay">Hi I´m Nazim.</h1>
 <h4>i`m a web developer from Manchester,UK. currently lead developer at a local agaency, Fhoke. In my spare time i enjoy DIY, gaming and building my own projects. My preffered tools are PHP, Laravel and Vue.js</h4>
-<h4>i`m on Threads, Github and Instagram.</h4>
+<h4>i`m on Whatsapp, Threads, Github and Instagram.</h4>
 
 </div>
 
@@ -50,7 +50,6 @@ const Home =()=>{
 <h4>A step-by-guide on creating a multi-image uploader using Laravel, Javascript & Tailwind</h4>
 <h4>Read Article -></h4>
 </div>
-
 
 <div className="naz"> @2023 Abubakar Nazim.             Built with Laravel... </div>
 

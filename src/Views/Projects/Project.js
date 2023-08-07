@@ -15,9 +15,18 @@ const Project = () =>{
 <h4 className="menuitem">ARTICLES</h4>
 <h4 className="menuitem">CONTACT</h4>
 </div>
+<h1>Projects</h1>
+
+<h2>Some of my spare time tinkering</h2>
+
+    
 
 
-          <p>Hello Nazim, This is the Project Component</p>
+
+<h1>Hairlist</h1>
+
+<h3>To do app with a focus on simplicity. Only the feature you need to get things done.</h3>
+
 
 
         </div>

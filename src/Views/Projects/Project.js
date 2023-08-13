@@ -17,7 +17,7 @@ const Project = () =>{
 </div>
 <h1>Projects</h1>
 
-<h2>Some of my spare time tinkering</h2>
+<h3>Some of my spare time tinkering</h3>
 
     
 
@@ -28,6 +28,8 @@ const Project = () =>{
 <h3>To do app with a focus on simplicity. Only the feature you need to get things done.</h3>
 
 
+<h1>The Brief</h1>
+<h3>To do list apps are everywhere, but my biggest issue with them all is how bloated they all are. Social login, user tracking, email notifications.The list goes on. I wanted something really simple to get the job done, so built it. </h3>
 
         </div>
     )

@@ -16,9 +16,8 @@ const Work =()=>{
 <h4 className="menuitem">PROJECTS</h4>
 <h4 className="menuitem">ARTICLES</h4>
 <h4 className="menuitem">CONTACT</h4>
-</div>
+</div> 
       <h1>I am Work Page</h1>
-
 
  </div>
  

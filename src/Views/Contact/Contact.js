@@ -20,13 +20,16 @@ return(
 </div>
 </div>
 
-     <h1>Hello Nazim and Mahrus</h1>
+   <h1>Contact Me</h1>
+  <h3>If you would like to chat about a project or just have question, please fill in the form below.I aim to get back within 2 days</h3>
   
+  <h4>NAME</h4>
   
+  <h4>EMAIL</h4>
   
-  
-  
-  
+  <h4>SUBJECT</h4>
+
+  <h4>MESSAGE</h4>
   </>
 )
 

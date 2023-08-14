@@ -18,8 +18,8 @@ const Home =()=>{
   <div className="menuContainer">
 <h4 className="menuitem">WORK</h4>
 <h4 onClick={()=>navigation("/project")} className="menuitem">PROJECTS</h4>
-<h4 className="menuitem">ARTICLES</h4>
-<h4 className="menuitem">CONTACT</h4>
+<h4 onClick={()=>navigation("/Article")} className="menuitem">ARTICLES</h4>
+<h4 onClick={()=>navigation("/Contact")} className="menuitem">CONTACT</h4>
 </div>
 
 

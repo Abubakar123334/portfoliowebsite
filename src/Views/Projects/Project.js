@@ -11,9 +11,9 @@ const Project = () =>{
          
   <div className="menuContainer">
 <h4 onClick={()=>navigation("/")} className="menuitem">WORK</h4>
-<h4  className="menuitem">PROJECTS</h4>
-<h4 className="menuitem">ARTICLES</h4>
-<h4 className="menuitem">CONTACT</h4>
+<h4 onClick={()=>navigation("/")}  className="menuitem">PROJECTS</h4>
+<h4 onClick={()=>navigation("/")} className="menuitem">ARTICLES</h4>
+<h4 onClick={()=>navigation("/")} className="menuitem">CONTACT</h4>
 </div>
 <h1>Projects</h1>
 

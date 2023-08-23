@@ -18,9 +18,9 @@ return(
 
 
 </div>
-</div>
 
-   <h1>Contact Me</h1>
+<h1>Contact Me</h1>
+
   <h3>If you would like to chat about a project or just have question, please fill in the form below.I aim to get back within 2 days</h3>
   
   <h4>NAME</h4>
@@ -29,7 +29,9 @@ return(
   
   <h4>SUBJECT</h4>
 
-  <h4>MESSAGE</h4>
+  <h4>MESSAGES</h4>
+</div>
+
   </>
 )
 
